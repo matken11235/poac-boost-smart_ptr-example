@@ -1,3 +1,4 @@
+// https://boostjp.github.io/tips/smart_ptr.html
 #include <iostream>
 #include <boost/scoped_ptr.hpp>
 
